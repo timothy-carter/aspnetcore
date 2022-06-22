@@ -7,7 +7,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Diagnostics.EventFlow.Core" Version="1.6.0" />
     <PackageReference Include="Microsoft.Diagnostics.EventFlow.Inputs.MicrosoftLogging" Version="1.4.5" />
-    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
 
